@@ -11,5 +11,5 @@
   - 연습문제 : `CH01_exercise.md`
   - 코드 : `algorithm_1_1_{SUFFIX}.cpp`
     - SUFFIX
-      - Jssim710 : js
-      - sbh3821 : 
+      - `Jssim710` : `js`
+      - `sbh3821` : 
