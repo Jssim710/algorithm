@@ -1,8 +1,8 @@
 # algorithm 📈
 
 ## Textbooks :book:
-- 쉽게 배우는 알고리즘 (문병로)
-- Introduction to Algorithms (CRLS)
+- [쉽게 배우는 알고리즘 (문병로)](https://github.com/Jssim710/algorithm/tree/main/MOON)
+- [Introduction to Algorithms (CRLS)](https://github.com/Jssim710/algorithm/tree/main/CRLS)
 
 ## Ground Rule 📏
 - For each Chapter, `README.md` is for summary.
