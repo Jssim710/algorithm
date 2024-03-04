@@ -12,4 +12,4 @@
   - 코드 : `algorithm_1_1_{SUFFIX}.cpp`
     - SUFFIX
       - `Jssim710` : `js`
-      - `sbh3821` : 
+      - `sbh3821` : `sm`
