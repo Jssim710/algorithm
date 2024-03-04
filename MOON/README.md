@@ -12,5 +12,5 @@
 - Chpater 10 그래프
 - Chapter 11 그리디 알고리즘
 - Chapter 12 문자열 매칭
-- Chapter 13 NP—완비
+- Chapter 13 NP-완비
 - Chapter 14 상태 공간 트리의 탐색
